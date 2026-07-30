@@ -74,7 +74,7 @@ wsl --install
 重启后开始菜单会多一个「Ubuntu」应用，打开它，输入：
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/e13815332/ASNIPtest/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/auxua428/ASNIPtest-New/refs/heads/main/install.sh | bash
 cmtjd
 ```
 
