@@ -25,7 +25,7 @@
 
 **Linux / macOS**
 ```bash
-curl -fsSL https://raw.githubusercontent.com/e13815332/ASNIPtest/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/auxua428/ASNIPtest/main/install.sh | bash
 cmtjd
 ```
 
@@ -35,7 +35,7 @@ cmtjd
 wsl --install
 
 # 重启后进 Ubuntu 终端
-curl -fsSL https://raw.githubusercontent.com/e13815332/ASNIPtest/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/auxua428/ASNIPtest/main/install.sh | bash
 cmtjd
 ```
 
@@ -48,7 +48,7 @@ cmtjd
 一条命令安装所有依赖（masscan、prips）并注册全局命令：
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/e13815332/ASNIPtest/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/auxua428/ASNIPtest/main/install.sh | bash
 ```
 
 安装完成后，在任意目录输入 `cmtjd` 即可启动。
@@ -204,7 +204,7 @@ http://1.2.3.4:8899/output_AS209242_20260617_120000.csv
 ## 卸载
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/e13815332/ASNIPtest/main/uninstall.sh | bash
+curl -fsSL https://raw.githubusercontent.com/auxua428/ASNIPtest/main/uninstall.sh | bash
 ```
 
 这会删除 `cmtjd` 命令和 `~/ASNIPtest` 目录。
